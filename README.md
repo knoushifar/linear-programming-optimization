@@ -81,7 +81,7 @@ Summary of results:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linear-programming-optimization.git
+git clone https://github.com/knoushifar/linear-programming-optimization.git
 cd linear-programming-optimization
 ```
 
